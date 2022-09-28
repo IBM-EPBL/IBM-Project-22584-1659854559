@@ -1,0 +1,6 @@
+import random as r
+while(1):
+var=r.randint(25,40)
+print(var)
+if(var>=35):
+printf("ALERT")
